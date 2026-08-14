@@ -48,7 +48,7 @@ Webhooks can let your integrations take an action in response to events that occ
 ### Integrating with Jira, ZenDesk and other external apps
 - [Featured GitHub integrations: Use GitHub extensions to work seamlessly in repositories on GitHub.com within third-party applications.](https://docs.github.com/en/get-started/exploring-integrations/featured-github-integrations)
 - [The Jira and GitHub integration synchronizes development across tools and uses automation to remove manual steps and shorten delivery time.](https://github.com/marketplace/jira-software-github)
-- [Click here to learn more about how to add autolinks to external resources like JIRA issues and Zendesk tickets to help bring data from those apps into your GH PRs ad issues, and help streamline your workflow.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/configuring-autolinks-to-reference-external-resources)
+- [Click here to learn more about how to add autolinks to external resources like JIRA issues and Zendesk tickets to help bring data from those apps into your GH PRs and issues, and help streamline your workflow.](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/configuring-autolinks-to-reference-external-resources)
 - [Integrate Jira Software with GitHub Cloud](https://support.atlassian.com/jira-cloud-administration/docs/integrate-with-github/)
 - [Integrating Jira with GitHub Enterprise Server](https://support.atlassian.com/jira-cloud-administration/docs/connect-a-github-enterprise-server-account-to-jira-software/)
 
