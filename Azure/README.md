@@ -186,7 +186,7 @@ jobs:
 
 The previous sample workflow depends on user-level credentials stored as a [secret](https://docs.github.com/en/free-pro-team@latest/actions/reference/encrypted-secrets) named `AZURE_CREDENTIALS` in your repository. The value of this secret is expected to be a JSON object that represents a service principal (an identifer for an application or process) that authenticates the workflow with Azure.
 
-To function correctly, this service principal must be assigned the [Contributor]((https://docs.microsoft.com/azure/role-based-access-control/built-in-roles#contributor)) role for the web app or the resource group that contains the web app.
+To function correctly, this service principal must be assigned the [Contributor](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles#contributor) role for the web app or the resource group that contains the web app.
 
 The following steps describe how to create the service principal, assign the role, and create a secret in your repository with the resulting credentials.
 
